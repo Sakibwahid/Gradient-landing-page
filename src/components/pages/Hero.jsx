@@ -20,8 +20,8 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="grid grid-cols-3 ">
-                    <div className="bg-New col-span-2 grid grid-cols-2">
-                        <div className="card col-span-1 rounded-none rounded-bl-3xl">
+                    <div className="col-span-2 grid grid-cols-2">
+                        <div className="card bg-card-1 col-span-1 rounded-none rounded-bl-3xl">
                             <div className="card-body ml-8 pr-24 flex gap-6">
                                 <FaCloudArrowUp className="w-12 h-12" />
                                 <div className="mb-5">
@@ -40,7 +40,7 @@ const Hero = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="card rounded-none col-span-1">
+                        <div className="card bg-card-2  rounded-none col-span-1">
                             <div className="card-body ml-8 pr-24 flex gap-6">
                                 <RiShieldCheckFill className="w-12 h-12" />
                                 <div className="mb-5">
