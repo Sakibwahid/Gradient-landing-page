@@ -74,7 +74,7 @@ const Hero = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="card bl-3xl col-span-1 bg-custom-gradient">
+                    <div className="card bl-3xl col-span-1 bg-card-3 ">
                         <div className="card-body ml-8 pr-24 flex gap-6">
                             <div className="avatar-group -space-x-6 rtl:space-x-reverse">
                                 <div className="avatar">
